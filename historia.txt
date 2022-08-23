@@ -1,5 +1,0 @@
-Hola este es un documento random
-
-Apartir de aquí empieza otra linea.
-
-Quite una linea y agregué otra.
